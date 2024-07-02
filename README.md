@@ -59,7 +59,7 @@ To use the model for predicting the genre of a new audio track:
 
 ## Results
 
-The model achieves a test accuracy of approximately XX%. The confusion matrix is shown below:
+The model achieves a test accuracy of approximately ~75%. The confusion matrix is shown below:
 
 ![Confusion Matrix](path/to/confusion_matrix.png)
 
